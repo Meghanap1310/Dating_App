@@ -3,7 +3,7 @@
 <li>Clone the repository using:
 git clone https://github.com/Meghanap1310/Dating_App.git
 using  the gitbash in a folder</li>
-<li> Open the project in any IDE like Eclipse/SringSuite from the folder where the cloned project is stored.</li>
+<li> Open the project in any IDE like Eclipse/SpringSuite from the folder where the cloned project is stored.</li>
 <li>Configure your MySQL database connection in **application.properties** file.</li>
 <li> Run the project as SpringBootApplication.</li>
 </ol>
